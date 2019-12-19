@@ -1,9 +1,9 @@
 public class HelloWorld {
 	
-	private HelloWorld() {
-	}
+	private HelloWorld() {}
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!, hello Jenkins, hello Eclipse.");
+		System.out.println("Modificación de código...");
 	}
+
 }
